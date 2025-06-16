@@ -4,4 +4,6 @@ An Anomaly Clock visualizes big data performance in a single image, with a focus
 
 Inspired from the TV series [Westworld Season 3](https://en.wikipedia.org/wiki/Westworld_season_3).
 
+## Snapshot
+
 ![Anomaly Clock Sample](Source/anomaly-clock-1.0.56.png)
