@@ -7,3 +7,7 @@ Inspired from the TV series [Westworld Season 3](https://en.wikipedia.org/wiki/W
 ## Snapshot
 
 ![Anomaly Clock Sample](Source/anomaly-clock-1.0.56.png)
+
+## References
+
+[Python Fiddle with Matplotlib](https://python-fiddle.com/examples/matplotlib)
